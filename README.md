@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BenOnoja
-- 👀 I’m interested in AI and software development 
-- 🌱 I’m currently learning reinforcement learning and AI
+- 👀 I’m interested in AI and software development (web solutions)
+- 🌱 I’m currently learning reinforcrment learning and advanced web3 
 - 💞️ I’m looking to collaborate on AI research and software development
+
 - 📫 How to reach me ...
 IG: ben.onoja, FB: Ben Onoja
 <!---
